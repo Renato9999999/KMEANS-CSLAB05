@@ -1,1 +1,4 @@
 Color,Forma,Tamano,Clase
+Color,Forma,Tamano,Clase
+Color,Forma,Tamano,Clase
+Color,Forma,Tamano,Clase
